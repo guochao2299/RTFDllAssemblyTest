@@ -1,0 +1,10 @@
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\bin\x86\Debug\RTFDllAssemblyTest.exe
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\bin\x86\Debug\RTFDllAssemblyTest.pdb
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\bin\x86\Debug\DCSoft.RTF.dll
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\bin\x86\Debug\DotNetRtfWriter.dll
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\obj\x86\Debug\RTFDllAssemblyTest.csprojResolveAssemblyReference.cache
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\obj\x86\Debug\RTFDllAssemblyTest.frmMain.resources
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\obj\x86\Debug\RTFDllAssemblyTest.Properties.Resources.resources
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\obj\x86\Debug\RTFDllAssemblyTest.csproj.GenerateResource.Cache
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\obj\x86\Debug\RTFDllAssemblyTest.exe
+E:\C#Programs\RTFDllAssemblyTest\RTFDllAssemblyTest\obj\x86\Debug\RTFDllAssemblyTest.pdb
